@@ -1,6 +1,6 @@
 # 💫 About Me:
     Hello I'm Shri 
-🔭 I’m currently working on Flutter and .net based projects <br>💬 Ask me about Flutter, C++, RestAPI, Firebase<br>👀 Looking for open-source contributions
+🔭 I’m currently working on Flutter and MERN  projects <br>💬 Ask me about Flutter, C++, RestAPI, Firebase<br>👀 Looking for open-source contributions
 
 
 ## 🌐 Socials:
